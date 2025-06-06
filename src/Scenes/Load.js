@@ -20,7 +20,7 @@ class Load extends Phaser.Scene {
         this.load.image("level_background", "level_background.png");
 
         // Background Images used for main menu and end screen
-        this.load.image("mainmenu", "mainMenu.png");
+        this.load.image("mainmenu", "mainmenu.png");
         this.load.image("gameEnd", "gameEnd.png");
 
 
