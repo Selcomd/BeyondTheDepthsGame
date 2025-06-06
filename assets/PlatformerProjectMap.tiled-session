@@ -1,0 +1,132 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "startMap.tmj",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "PlatformerMap.tmj": {
+            "expandedObjectLayers": [
+                8
+            ],
+            "scale": 1,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 2917,
+                "y": 247
+            }
+        },
+        "PlatformerMap.tmj#background": {
+            "scaleInDock": 1
+        },
+        "PlatformerMap.tmj#characters": {
+            "scaleInDock": 1
+        },
+        "PlatformerMap.tmj#industrialTileset": {
+            "scaleInDock": 1
+        },
+        "PlatformerMap.tmj#marbleTileset": {
+            "scaleInDock": 1
+        },
+        "PlatformerMap.tmj#normalTileset": {
+            "scaleInDock": 1
+        },
+        "PlatformerMap.tmj#rockTileset": {
+            "scaleInDock": 1
+        },
+        "PlatformerMap.tmj#sandTileset": {
+            "scaleInDock": 1
+        },
+        "PlatformerMap.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 188,
+                "y": 264
+            }
+        },
+        "PlatformerMap.tmx#background": {
+            "scaleInDock": 1
+        },
+        "PlatformerMap.tmx#characters": {
+            "scaleInDock": 1
+        },
+        "PlatformerMap.tmx#industrialTileset": {
+            "scaleInDock": 1.5
+        },
+        "PlatformerMap.tmx#marbleTileset": {
+            "scaleInDock": 1
+        },
+        "PlatformerMap.tmx#normalTileset": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "PlatformerMap.tmx#rockTileset": {
+            "scaleInDock": 1
+        },
+        "PlatformerMap.tmx#sandTileset": {
+            "scaleInDock": 1
+        },
+        "startMap.tmj": {
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 947,
+                "y": 264
+            }
+        },
+        "startMap.tmj#background": {
+            "scaleInDock": 1
+        },
+        "startMap.tmj#characters": {
+            "scaleInDock": 1
+        },
+        "startMap.tmj#industrialTileset": {
+            "scaleInDock": 1
+        },
+        "startMap.tmj#levelBack": {
+            "scaleInDock": 0.33
+        },
+        "startMap.tmj#marbleTileset": {
+            "scaleInDock": 1
+        },
+        "startMap.tmj#normalTileset": {
+            "scaleInDock": 1
+        },
+        "startMap.tmj#rockTileset": {
+            "scaleInDock": 1
+        }
+    },
+    "frame.defaultDuration": 150,
+    "last.exportedFilePath": "C:/Users/yahir/VSCode Projects/PlatformerProject/assets",
+    "last.imagePath": "C:/Users/yahir/VSCode Projects/PlatformerProject/assets",
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "json",
+    "map.tileHeight": 18,
+    "map.tileWidth": 18,
+    "map.width": 80,
+    "openFiles": [
+        "PlatformerMap.tmx",
+        "startMap.tmj",
+        "PlatformerMap.tmj"
+    ],
+    "project": "PlatformerProjectMap.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "PlatformerMap.tmx",
+        "PlatformerMap.tmj",
+        "startMap.tmj"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 18,
+        "width": 18
+    }
+}

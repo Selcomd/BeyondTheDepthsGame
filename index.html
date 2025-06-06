@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Platformer Game</title>
+    <style>
+        body {
+            margin: 0;
+            overflow: hidden;
+        }
+        #ui {
+            position: absolute;
+            bottom: 10px;
+            left: 50%;
+            transform: translateX(-50%);
+            display: flex;
+            gap: 50px;
+            font-family: monospace;
+            font-size: 20px;
+            color: white;
+            z-index: 10;
+            pointer-events: none;
+        }
+        #coinCounter, #deathCounter {
+            background: rgba(0, 0, 0, 0.5);
+            padding: 5px 15px;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+    <div id="phaser-game"></div>
+    <div id="ui">
+        <div id="coinCounter">Coins: 0</div>
+        <div id="deathCounter">Deaths: 0</div>
+    </div>
+
+    <script src="lib/phaser.js"></script>
+
+    <script src="src/Scenes/Load.js"></script>
+    <script src="src/Scenes/MainMenu.js"></script>
+    <script src="src/Scenes/StartLevel.js"></script>
+    <script src="src/Scenes/Platformer.js"></script>
+    <script src="src/Scenes/GameEnd.js"></script>
+
+    <script src="src/main.js"></script>
+</body>
+</html>
